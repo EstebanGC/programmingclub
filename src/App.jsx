@@ -5,7 +5,7 @@ import "./App.css";
 const App = () => {
   return (
     <div className="container">
-      <h1 className="title">Formulario Básico</h1>
+      <h1 className="title">Whatever</h1>
       <BasicForm />
     </div>
   );
